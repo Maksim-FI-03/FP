@@ -1,4 +1,4 @@
-package com.tkroman.kpi.y2022.l1
+package com.maksim.kpi.y2022.l1
 
 import munit.FunSuite
 import MyList.*
